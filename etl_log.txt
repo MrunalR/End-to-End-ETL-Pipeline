@@ -1,0 +1,406 @@
+[2025-06-24 12:00:19.214609] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-24 18:00:04.943606] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-25 00:00:08.439505] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-25 12:00:06.813719] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-25 18:00:07.149313] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-26 00:00:05.049503] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-26 12:00:03.870519] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-26 18:00:05.428040] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-27 00:00:05.518551] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-27 06:00:04.860806] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-27 12:00:04.428361] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-28 12:00:05.670701] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-29 00:00:04.568970] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-29 12:00:04.898831] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-06-30 12:00:04.801259] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-01 00:00:06.340029] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-01 12:00:04.805822] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-02 12:00:05.789586] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-03 06:00:07.773474] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-03 12:00:05.019624] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-04 00:00:11.982274] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-04 06:00:05.255287] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-04 12:00:06.398412] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-05 12:00:06.052646] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-06 06:00:05.936622] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-06 12:00:04.977547] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-06 18:00:05.108392] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-07 00:00:04.887894] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-07 06:00:04.490851] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-07 12:00:04.994674] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-07 18:06:19.773919] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-08 00:00:06.741837] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-08 12:00:05.743338] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-08 18:00:04.590856] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-09 00:00:04.846180] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-09 12:00:10.422965] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-10 00:00:04.633171] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-10 12:00:05.210009] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-11 00:00:06.647961] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-11 12:00:04.824222] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-11 18:00:05.463551] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-14 12:00:05.604799] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-15 00:00:06.460192] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-15 12:00:05.151773] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-16 00:00:06.927997] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-16 18:00:11.663310] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-17 00:00:11.719080] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-17 06:00:05.626439] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-17 12:00:05.607422] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-17 18:00:05.426910] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-18 12:00:06.266925] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-18 18:03:12.284686] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-19 06:00:05.345111] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-20 00:00:13.958691] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-20 12:00:06.088317] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-20 18:00:05.991567] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-21 00:08:43.473437] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
+[2025-07-21 06:00:05.864176] Starting ETL pipeline...
+Upload failed: duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (user_id)=(59b99db4cfa9a34dcd7885b6) already exists.
+
+[✓] Users ETL complete.
+Data uploaded to table `movies` successfully.
+[✓] Movies ETL complete.
