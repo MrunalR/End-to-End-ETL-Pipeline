@@ -54,8 +54,8 @@ if __name__ == "__main__":
     print(f"[{datetime.now()}] Starting ETL pipeline...")
     try:
         etl_users()
-        print("[✓] Users ETL complete.")
+        print("Users ETL complete.")
         etl_movies()
-        print("[✓] Movies ETL complete.")
+        print("Movies ETL complete.")
     except Exception as e:
-        print(f"[✗] ETL failed: {e}")
+        print(f"ETL failed: {e}")
